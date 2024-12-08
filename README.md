@@ -1,4 +1,4 @@
-# A Compliance Guide 
+# A Compliance Guide
 
 As a cybersecurity enthusiast, I've created this comprehensive guide exploring the compliance landscape through **GrocerDel**, a fictional grocery delivery startup. This repository is my attempt to understand and document essential regulatory frameworks, security protocols, and best practices for modern digital businesses.
 
@@ -6,6 +6,7 @@ As a cybersecurity enthusiast, I've created this comprehensive guide exploring t
 > GrocerDel is a fictional startup, and this guide is meant for educational and informational purposes only. It does not constitute legal advice, so please consult with legal professionals for specific compliance questions.
 
 ## Overview
+
 While exploring cybersecurity concepts, I've learned that compliance isn't just about checking boxes—it's about building robust security frameworks, protecting data, and implementing sustainable security practices. I've broken down complex compliance requirements into digestible, actionable insights based on my research and learning.
 
 ### What You'll Find
@@ -31,7 +32,6 @@ I've structured this guide to explore critical compliance areas from a cybersecu
 14. [Risk Management and Crisis Response](https://github.com/iamrahulreddy/Compliance_Guide_For_Fictional_Startup/blob/1558184c301b8492f9958012fd26ec1c0375ff77/Chapter%2014%20-%20Risk%20Management%20and%20Crisis%20Response.pdf)
 15. [Employee Training and Awareness](https://github.com/iamrahulreddy/Compliance_Guide_For_Fictional_Startup/blob/1558184c301b8492f9958012fd26ec1c0375ff77/Chapter%2015%20-%20Employee%20Training%20and%20Awareness.pdf)
 
-
 #### To View Full Guide At Once - [Full Compliance Guide](https://github.com/iamrahulreddy/Compliance_Guide_For_Fictional_Startup/blob/1558184c301b8492f9958012fd26ec1c0375ff77/Compliance%20Guide%20For%20Fictional%20Startup%20GrocerDel.pdf)
 
 > [!NOTE]
@@ -44,15 +44,15 @@ I've structured this guide to explore critical compliance areas from a cybersecu
 
 Through my cybersecurity studies, I've discovered that modern businesses face complex security challenges. Here's why I believe understanding compliance is crucial:
 
-* **Security Foundation:** Proper compliance frameworks help build strong security practices
-* **Data Protection:** Understanding compliance helps protect sensitive information effectively
-* **Risk Management:** Knowledge of compliance aids in identifying and mitigating security risks
+* **Security Foundation:** Proper compliance frameworks help build strong security practices.
+* **Data Protection:** Understanding compliance helps protect sensitive information effectively.
+* **Risk Management:** Knowledge of compliance aids in identifying and mitigating security risks.
 
 > [!NOTE]
 > This guide represents my learning journey in security compliance. While I've researched thoroughly, laws and regulations constantly evolve. I'll update this guide as I continue learning and discovering new aspects of security compliance.
 
 > [!IMPORTANT]
-> While I've created this as a general framework for compliance in digital businesses, I want to emphasize that laws and regulations vary by jurisdiction and industry sector. 
+> While I've created this as a general framework for compliance in digital businesses, I want to emphasize that laws and regulations vary by jurisdiction and industry sector.
 
 ## How I Plan Future Updates
 
@@ -90,4 +90,3 @@ If you've got more experience or different perspectives on security compliance, 
 I welcome all feedback, corrections, and improvements. Let's learn and grow together in our understanding of security compliance!
 
 Keep exploring! 😊
-
