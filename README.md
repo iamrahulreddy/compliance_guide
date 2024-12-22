@@ -31,6 +31,10 @@ I've structured this guide to explore critical compliance areas from a cybersecu
 
 #### Full Document - [Full Compliance Guide](https://github.com/iamrahulreddy/Compliance_Guide_For_Fictional_Startup/blob/1558184c301b8492f9958012fd26ec1c0375ff77/Compliance%20Guide%20For%20Fictional%20Startup%20GrocerDel.pdf)
 
+### Compliance Trends in Indian E-commerce 
+
+Read this document for [Compliance Trends in Indian E-commerce](./Compliance%20Trends%20in%20Indian%20E-commerce.pdf)
+
 > [!NOTE]
 > **Who This Guide Might Help**
 > * **Cybersecurity Students:** If you're learning about security compliance frameworks
