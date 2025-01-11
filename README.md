@@ -13,23 +13,24 @@ While exploring cybersecurity concepts, I've learned that compliance isn't just 
 
 I've structured this guide to explore critical compliance areas from a cybersecurity perspective. Each chapter represents my understanding of how security and compliance intersect in modern businesses.
 
-1. Consumer Data Protection
-2. Data Security and Cybersecurity Standards
-3. Payment Card Industry (PCI) Compliance
-4. Cybersecurity Operations (CyberSecOps)
-5. IT Department Compliance and Best Practices
-6. Internal Audits and Compliance Monitoring
-7. Record-Keeping and Documentation
-8. Business Formation and Legal Compliance
-9. Local, State, and Federal Regulations
-10. Employee Data Protection and Privacy
-11. Workplace Health and Safety
-12. Product and Service Quality Compliance
-13. Environmental and Sustainability Policies
-14. Risk Management and Crisis Response
-15. Employee Training and Awareness
+1. [Consumer Data Protection](./Consumer%20Data%20Protection/)
+2. [Data Security and Cybersecurity Standards](./Data%20Security%20and%20Cybersecurity%20Standards/)
+3. [Payment Card Industry (PCI) Compliance](./Payment%20Card%20Industry%20(PCI)%20Compliance/)
+4. [Cybersecurity Operations (CyberSecOps)](./Cybersecurity%20Operations%20(CyberSecOps)/)
+5. [IT Department Compliance and Best Practices](./IT%20Department%20Compliance%20and%20Best%20Practices/)
+6. [Internal Audits and Compliance Monitoring](./Internal%20Audits%20and%20Compliance%20Monitoring/)
+7. [Record-Keeping and Documentation](./Record-Keeping%20and%20Documentation/)
+8. [Business Formation and Legal Compliance](./Business%20Formation%20and%20Legal%20Compliance/)
+9. [Local, State, and Federal Regulations](./Local,%20State,%20and%20Federal%20Regulations/)
+10. [Employee Data Protection and Privacy](./Employee%20Data%20Protection%20and%20Privacy/)
+11. [Workplace Health and Safety](./Workplace%20Health%20and%20Safety/)
+12. [Product and Service Quality Compliance](./Product%20and%20Service%20Quality%20Compliance/)
+13. [Environmental and Sustainability Policies](./Environmental%20and%20Sustainability%20Policies/)
+14. [Risk Management and Crisis Response](./Risk%20Management%20and%20Crisis%20Response/)
+15. [Employee Training and Awareness](./Employee%20Training%20and%20Awareness/)
 
-#### Full Document - [Full Compliance Guide](https://github.com/iamrahulreddy/Compliance_Guide_For_Fictional_Startup/blob/1558184c301b8492f9958012fd26ec1c0375ff77/Compliance%20Guide%20For%20Fictional%20Startup%20GrocerDel.pdf)
+
+#### Full Document - [Full Compliance Guide](./Compliance%20Guide.pdf)
 
 ### Compliance Trends in Indian E-commerce 
 
