@@ -14,6 +14,8 @@ This file acknowledges the external resources, tools, and references used in thi
 - **Environmental Compliance for Companies in India: Key Legislation and ESG Guidelines**  
   Reference: [Website of Inida Briefing](https://india-briefing.com/news/environmental-compliance-for-companies-in-india-key-legislation-and-esg-guidelines-32012.html/)
 
+- **Principles_Best_Practices_For_Data-Governance**
+  Reference: [cloud.google.com/security](https://cloud.google.com/security?hl=en)
 ---
 
 ## **Acknowledgments**
